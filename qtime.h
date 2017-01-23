@@ -2,7 +2,6 @@
 #define QTIME_INCLUDED
 
 #include <cstdlib>
-#include <iostream>
 #include <thread>
 #include <chrono>
 #include <ctime>
